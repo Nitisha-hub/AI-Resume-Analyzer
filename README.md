@@ -9,9 +9,9 @@
 Thousands of students apply for jobs every day…
 But most resumes:
 
-* ❌ Don’t match job requirements
-* ❌ Miss critical skills
-* ❌ Get rejected by ATS systems
+* Don’t match job requirements
+* Miss critical skills
+* Get rejected by ATS systems
 
 👉 Result: **Good candidates get ignored**
 
@@ -51,10 +51,20 @@ From upload → analysis → storage → feedback
 ## 🔍 How It Works (Behind the Scenes)
 
 1️⃣ Resume uploaded by user
+
+
 2️⃣ Text extracted using PDF parsing
+
+
 3️⃣ NLP cleans and processes content
+
+
 4️⃣ Skills matched with intelligent dataset
+
+
 5️⃣ Resume scored based on relevance
+
+
 6️⃣ Suggestions generated for improvement
 
 ---
