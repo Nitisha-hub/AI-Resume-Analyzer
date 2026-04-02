@@ -89,7 +89,11 @@ From upload → analysis → storage → feedback
 ## 📊 Example Output
 
 ✔ Skills Found: Python, SQL, Machine Learning
+
+
 ✔ Score: 75/100
+
+
 ✔ Suggestion: Add cloud skills (AWS), improve project descriptions
 
 ---
