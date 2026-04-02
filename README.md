@@ -88,9 +88,9 @@ From upload → analysis → storage → feedback
 
 ## 📊 Example Output
 
-* ✔ Skills Found: Python, SQL, Machine Learning
-* ✔ Score: 75/100
-* ✔ Suggestion: Add cloud skills (AWS), improve project descriptions
+✔ Skills Found: Python, SQL, Machine Learning
+✔ Score: 75/100
+✔ Suggestion: Add cloud skills (AWS), improve project descriptions
 
 ---
 
@@ -100,10 +100,10 @@ This is just the beginning.
 
 Planned upgrades:
 
-* 🔹 Job-role specific analysis (SDE / Data Scientist)
-* 🔹 ATS simulation system
-* 🔹 AI-based resume rewriting
-* 🔹 Integration with job portals
+🔹 Job-role specific analysis (SDE / Data Scientist)
+🔹 ATS simulation system
+🔹 AI-based resume rewriting
+🔹 Integration with job portals
 
 ---
 
