@@ -105,8 +105,14 @@ This is just the beginning.
 Planned upgrades:
 
 🔹 Job-role specific analysis (SDE / Data Scientist)
+
+
 🔹 ATS simulation system
+
+
 🔹 AI-based resume rewriting
+
+
 🔹 Integration with job portals
 
 ---
