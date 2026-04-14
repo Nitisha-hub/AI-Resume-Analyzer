@@ -7,7 +7,7 @@
 ## 🧠 The Problem
 
 Thousands of students apply for jobs every day…           
-But most resumes:
+But most resumes:                           
 
 * Don’t match job requirements
 * Miss critical skills
