@@ -1,6 +1,6 @@
 # 🚀 AI Resume Analyzer — Not Just a Tool, A Career Companion
 
-> 💡 “Most resume tools just scan. This one understands.”
+> 💡 “Most resume tools just scan. This one understands.”              
 
 ---
 
