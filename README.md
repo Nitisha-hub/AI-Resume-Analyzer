@@ -198,7 +198,16 @@ python app.py
 
 # 📸 Screenshots
 
-*Add project screenshots here*
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 📤 Upload Resume
+![Upload Page](screenshots/upload.png)
+
+### 📊 Result Page
+![Result Page](screenshots/result.png)
+
+
 
 ---
 
