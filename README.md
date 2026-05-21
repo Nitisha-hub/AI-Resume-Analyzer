@@ -199,13 +199,13 @@ python app.py
 # 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshot/home.png)
 
 ### 📤 Upload Resume
-![Upload Page](screenshots/upload.png)
+![Upload Page](screenshot/upload.png)
 
 ### 📊 Result Page
-![Result Page](screenshots/result.png)
+![Result Page](screenshot/result.png)
 
 
 
