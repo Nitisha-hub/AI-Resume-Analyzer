@@ -2,6 +2,9 @@
 
 > “Most resume tools just scan. This one understands.”
 
+![Home Page](screenshot/home.png)
+
+
 ## 🧠 Problem Statement
 
 Thousands of students apply for jobs every day, but many resumes:
