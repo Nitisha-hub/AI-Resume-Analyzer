@@ -7,7 +7,7 @@ from services.parser import extract_resume_text, analyze_resume
 app = Flask(__name__)
 CORS(app)
 
-# ✅ Home route
+# ✅ Home route 
 @app.route('/')
 def home():
     return render_template('index.html')
