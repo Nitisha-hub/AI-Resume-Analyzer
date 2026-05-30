@@ -1,4 +1,4 @@
-"use strict";
+"use strict";         
 // Call this function in a another function to find out the file from
 // which that function was called from. (Inspects the v8 stack trace)
 //
